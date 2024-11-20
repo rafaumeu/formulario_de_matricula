@@ -1,68 +1,70 @@
-# README - Formulário de Matrícula - Estrelas do Amanhã
+# Enrollment Form - Estrelas do Amanhã  
 
-## Descrição
+![Estrelas do Amanhã Logo](assets/icons/logo.svg)  
 
-Este projeto consiste em um formulário de matrícula para a escola de educação infantil "Estrelas do Amanhã". O formulário permite que os responsáveis preencham as informações necessárias para matricular seus filhos na escola, incluindo dados pessoais da criança, informações de contato do responsável e opções de matrícula.
+## Description  
 
-## Estrutura do Projeto
+This project consists of an enrollment form for the "Estrelas do Amanhã" early childhood school. The form allows guardians to fill in the necessary information to enroll their children, including the child's personal details, the guardian's contact information, and enrollment options.  
 
-O projeto contém os seguintes arquivos principais:
+## Project Structure  
 
-- `index.html`: O arquivo HTML que contém a estrutura do formulário de matrícula.
-- `styles/index.css`: O arquivo CSS que estiliza o formulário e a página.
-- `assets/`: Pasta que contém os ícones e imagens utilizados no formulário.
+The project contains the following main files:  
 
-## Funcionalidades
+- `index.html`: The HTML file that contains the structure of the enrollment form.  
+- `styles/index.css`: The CSS file that styles the form and the page.  
+- `assets/`: Folder containing the icons and images used in the form.  
 
-O formulário inclui as seguintes seções:
+## Features  
 
-1. **Informações da Criança**:
-   - Nome completo
-   - Data de nascimento
-   - Gênero
-   - Informações médicas
-   - Upload da certidão de nascimento
+The form includes the following sections:  
 
-2. **Endereço Residencial**:
-   - CEP
-   - Rua (pré-preenchida e desabilitada)
-   - Número
-   - Cidade (pré-preenchida e desabilitada)
-   - Estado (pré-preenchido e desabilitado)
+1. **Child Information**:  
+   - Full name  
+   - Date of birth  
+   - Gender  
+   - Medical information  
+   - Birth certificate upload  
 
-3. **Informações do Responsável**:
-   - Nome do responsável
-   - Telefone
-   - Email (com validação)
+2. **Residential Address**:  
+   - ZIP Code  
+   - Street (pre-filled and disabled)  
+   - Number  
+   - City (pre-filled and disabled)  
+   - State (pre-filled and disabled)  
 
-4. **Opções de Matrícula**:
-   - Turno de estudo (Manhã ou Tarde)
-   - Esporte de interesse (Futebol, Basquetebol, Natação, Yoga, Voleibol, Boxe)
+3. **Guardian Information**:  
+   - Guardian's name  
+   - Phone number  
+   - Email (with validation)  
 
-5. **Termos e Condições**:
-   - Checkbox para aceitar os termos e condições da escola.
+4. **Enrollment Options**:  
+   - Study shift (Morning or Afternoon)  
+   - Sports of interest (Soccer, Basketball, Swimming, Yoga, Volleyball, Boxing)  
 
-6. **Ações**:
-   - Botão para salvar respostas
-   - Botão para submeter o formulário
+5. **Terms and Conditions**:  
+   - Checkbox to accept the school's terms and conditions.  
 
-## Como Usar
+6. **Actions**:  
+   - Button to save responses  
+   - Button to submit the form  
 
-1. Clone ou faça o download deste repositório.
-2. Abra o arquivo `index.html` em um navegador web.
-3. Preencha o formulário com as informações solicitadas.
-4. Clique em "Fazer matrícula" para enviar o formulário.
+## How to Use  
 
-## Tecnologias Utilizadas
+1. Clone or download this repository.  
+2. Open the `index.html` file in a web browser.  
+3. Fill out the form with the requested information.  
+4. Click "Submit Enrollment" to send the form.  
 
-- HTML5
-- CSS3
-- Fontes do Google Fonts
+## Technologies Used  
 
-## Contribuições
+- HTML5  
+- CSS3  
+- Google Fonts  
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+## Contributions  
 
-## Licença
+Contributions are welcome! Feel free to open issues or pull requests.  
 
-Este projeto é de uso livre. Sinta-se à vontade para modificar e usar conforme necessário.
+## License  
+
+This project is free to use. Feel free to modify and use it as needed.  
