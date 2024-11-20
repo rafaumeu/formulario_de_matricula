@@ -1,6 +1,6 @@
 # Enrollment Form - Estrelas do Amanhã  
 
-![Estrelas do Amanhã Logo](assets/icons/logo.svg)  
+![Estrelas do Amanhã Logo](assets/logo.svg)  
 
 ## Description  
 
